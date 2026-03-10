@@ -1,5 +1,5 @@
 import aboutImg from "../assets/about.png"
-import { ABOUT_TEXT, ABOUT_TEXT1 } from "../constants"
+import { ABOUT_TEXT} from "../constants"
 import { motion } from "motion/react"
 
 const About = () => {
@@ -43,3 +43,4 @@ const About = () => {
 }
 
 export default About
+
