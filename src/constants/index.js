@@ -10,25 +10,32 @@ export const ABOUT_TEXT = `Hi, I’m Sachin Kumar Singh, a Computer Science Engi
  
 
 export const EXPERIENCES = [
-  {
-    year: "September 2024 - Present",
-    role: "Research and Development Intern",
+ {
+    year: "April 2025 - Present",
+    role: "Market Research Analyst",
     company: "Kritikal Solutions Pvt. Ltd. ",
-    description: `Conducted business development research to identify potential collaborators in AI, ML, and embedded software technologies. Created and managed a contact database of industry stakeholders using LinkedIn and CRM tools, facilitating strategic outreach and engagement.`,
-    technologies: ["Microsoft Excel", "Google Sheets", "Sales Navigator", "Zoho", "Apollo"],
+    description: `Architected interactive Power BI dashboards that reduced reporting time by 35%, accelerating leadership decision making. Analyzed large customer datasets using SQL and Advanced Excel to uncover behavioral trends, improving targeting efficiency. Spearheaded cross-functional collaboration with vision, embedded, and software engineering teams to define project scope, timelines, and business requirements. Executed market intelligence initiatives and competitor analysis to identify high-value growth opportunities. Engineered executive presentations translating complex analytics into actionable strategies.`,
+    technologies: ["Microsoft Excel", "Google Sheets", "Sales Navigator", "Zoho", "Apollo", "XLOOKUP", "Power BI", "Data Modeling", "Data Interpretation", "SQL", "Business Requirements Document", "Jira", "ETL Concepts", "Forecasting & Reporting", "Gap Analysis", "Scrum", "Agile", "Confluence"],
+  }, 
+ {
+    year: "September 2024 - April 2025",
+    role: "Business Analyst Intern",
+    company: "Kritikal Solutions Pvt. Ltd. ",
+    description: `Conducted market research and competitive analysis across MedTech, Automotive, and Embedded Systems industries to identify potential business opportunities. Performed industry trend analysis and opportunity mapping to assist leadership in identifying high-growth markets. Supported requirement gathering and documentation by collaborating with technical and business teams. Prepared business reports, market insights, and executive presentations to support decision-making. Redesigned reporting workflows, enhancing leadership decision visibility and reducing manual analysis effort.`,
+    technologies: ["Microsoft Excel", "Google Sheets", "Sales Navigator", "Zoho", "Apollo", "XLOOKUP", "Power BI", "Data Modeling", "Data Interpretation", "SQL", "Business Requirements Document", "Jira", "ETL Concepts", "Forecasting & Reporting", "Gap Analysis", "Scrum", "Agile", "Confluence" ],
   },
   {
     year: "September 2024 - December 2024",
-    role: "Backend Developer (3 Month)",
+    role: "Backend Developer Intern",
     company: "Yugasa Software",
     description: `Developed and enhanced chatbot functionalities by building APIs and managing databases using Node.js and MongoDB. Created a secure login page focusing on user authentication and backend integrations.`,
     technologies: ["ReactJS", "NodeJS", "MongoDB", "Yugasa Bot", "Visual Studio"],
   },
   {
-    year: "August 2024 - Present",
+    year: "August 2024 - May 2025",
     role: "Full Stack Developer with NodeJS",
     company: "Ducat Training Centre",
-    description: `Currently enrolled in an intensive Full Stack Developer course at Ducat, South Extension, covering modern technologies including HTML, Tailwind CSS, JavaScript, React.js, MongoDB, and Node.js. Actively building dynamic, responsive web applications and APIs as part of course projects, focusing on real-world problem-solving and best practices in full-stack development.`,
+    description: `Completed an intensive Full Stack Developer course at Ducat, South Extension, covering modern technologies including HTML, Tailwind CSS, JavaScript, React.js, MongoDB, and Node.js. Actively building dynamic, responsive web applications and APIs as part of course projects, focusing on real-world problem-solving and best practices in full-stack development.`,
     technologies: ["ReactJS", "NodeJS", "MongoDB", "Yugasa Bot", "Visual Studio"],
   },
   {
