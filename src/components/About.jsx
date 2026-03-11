@@ -29,11 +29,7 @@ const About = () => {
             <div className="flex justify-center lg:justify-start">
                <p className="my-20 max-w-xl py-6">{ABOUT_TEXT}</p>
                
-               </div>
-            <div className="flex justify-center lg:justify-start">
-            <p className="my:0 max-w-xl py-0">{ABOUT_TEXT1}</p>
-            </div>
-            
+               </div>           
             
           </motion.div> 
 
@@ -43,4 +39,5 @@ const About = () => {
 }
 
 export default About
+
 
