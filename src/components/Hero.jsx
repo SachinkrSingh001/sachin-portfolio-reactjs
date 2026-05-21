@@ -41,7 +41,7 @@ const Hero = () => {
                      initial="hidden"
                      animate="visible"
                     className="bg-gradient-to-r from-pink-200 via-slate-500 to-purple-300 bg-clip-text text-1xl tracking-tight text-transparent"> 
-                    <a href="https://drive.google.com/file/d/10VjdFuFMeokrPWVJWU9nk3IS6nCBtGzz/view?usp=sharing" target="blank"> 
+                    <a href="https://drive.google.com/file/d/1CTOngdtAxoKyZVADwno7DSmp94VE6aqF/view?usp=sharing" target="blank"> 
                     Download Resume </a> </motion.h3>
 
                  </div>
